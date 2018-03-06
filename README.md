@@ -5,3 +5,4 @@
 
 此程序是一个不懂编程的小白通过查MSDN花了两天写出来的。中途测试了各种极端情况，希望可以稳定运行不崩溃。
 
+下载：https://github.com/itales/THU-Auto-Login/releases
