@@ -1,13 +1,5 @@
-# THU-Auto-Login
+# 清华校园网自动登录程序（自动检测是否断线并重连）
 
-这是一个清华校园网自动登录及断线重连程序，避免出门时自动超时掉线而无法连接实验室电脑。可以手动设置此程序开机自启以达到一开机就自动登录的效果。
+已迁移至 https://blog.istorie.net/2018/03/06/thu-autologin/
 
-现在只是一个控制台程序，需保持窗口不关闭才能持续运行。等以后有时间了再搞个图形界面。
-
-启动之后自然就知道怎么用了。
-
-此程序是一个不懂编程的小白通过查MSDN花了两天写出来的。中途测试了各种极端情况，希望可以长期稳定运行不崩溃。
-
-下载： https://github.com/itales/THU-Auto-Login/releases
-
-欢迎反馈各种bug~~
+Moved to https://blog.istorie.net/2018/03/06/thu-autologin/
